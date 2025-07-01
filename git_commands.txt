@@ -40,4 +40,37 @@ history
 git remote -v
 git push origin master
 
-This is a change
+
+git branch
+git branch dev
+git branch
+git switch dev
+ls
+ls
+git add this_is_Tusar.txt
+git commit "add tusar"
+git commit -m "add tusar"
+git status
+git switch master
+git status
+git log
+git log --oneline
+git log -h --oneline
+clear
+git log --oneline
+git checkout dev
+git log --oneline
+git push origin dev
+git pull origin master
+git switch master
+ls
+git pull origin master
+git branch
+ls
+ls -a
+dir -h
+cd .git
+ls
+cd hooks
+ls
+pip install flake8
